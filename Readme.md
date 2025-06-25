@@ -1,5 +1,9 @@
 # 💬 Chat Application
 
+<p align="center">
+  <img src="./images/image.png" alt="Chat App Screenshot" width="600"/>
+</p>
+
 A **full-stack chat app** built with **React**, **Node.js**, **Express**, **MongoDB**, and **Socket.IO**.  
 Enjoy real-time messaging, image uploads, profile management, and theme customization—all in a modern, responsive UI.
 
